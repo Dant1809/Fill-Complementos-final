@@ -4,6 +4,10 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.logo{
+  width: auto;
+}
+
 .footer {
   grid-area: footer;
   width: 1500px;
@@ -52,3 +56,7 @@
 .prueba {
   color: white;
 }/*# sourceMappingURL=style.css.map */
+
+.imgfill{
+  width:;
+}
